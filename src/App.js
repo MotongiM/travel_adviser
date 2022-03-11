@@ -7,7 +7,7 @@ import PlaceDetails from './components/PlaceDetails/PlaceDetails';
 function App() {
   return (
     <>
-      <CssBaseLine />
+      {/* <CssBaseLine /> */}
       <Header />
       <Grid container spacing={3} style={{width: '100%'}}>
         <Grid item xs={12} md={4}>
